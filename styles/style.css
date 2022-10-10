@@ -33,7 +33,7 @@ body{
 .venus{
   width:10px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: venus 1.5s linear infinite;
 }
@@ -48,7 +48,7 @@ body{
 .earth{
   width:12px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: earth 2s linear infinite;
 }
@@ -63,7 +63,7 @@ body{
 .mars{
   width:7px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: mars 3s linear infinite;
 }
@@ -78,7 +78,7 @@ body{
 .jupiter{
   width:40px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: jupiter 5s linear infinite;
 }
@@ -93,7 +93,7 @@ body{
 .saturn{
   width:70px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: saturn 7s linear infinite;
 }
@@ -108,7 +108,7 @@ body{
 .uranus{
   width:25px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: uranus 9s linear infinite;
 }
@@ -123,7 +123,7 @@ body{
 .neptune{
   width:25px;
   position:absolute;
-  top:0; bottom:0; left:0;right:0;
+  top:0; bottom:0; left:0; right:0;
   margin:auto;
   animation: neptune 13s linear infinite;
 }
