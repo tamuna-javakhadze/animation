@@ -20,7 +20,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: mercury 1s linear infinite;
+  animation: mercury 3s linear infinite;
 }
 
 @keyframes mercury{
@@ -35,7 +35,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: venus 1.5s linear infinite;
+  animation: venus 5s linear infinite;
 }
 
 @keyframes venus{
@@ -50,7 +50,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: earth 2s linear infinite;
+  animation: earth 10s linear infinite;
 }
 
 @keyframes earth{
@@ -65,7 +65,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: mars 3s linear infinite;
+  animation: mars 15s linear infinite;
 }
 
 @keyframes mars{
@@ -80,7 +80,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: jupiter 5s linear infinite;
+  animation: jupiter 20s linear infinite;
 }
 
 @keyframes jupiter{
@@ -95,7 +95,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: saturn 7s linear infinite;
+  animation: saturn 25s linear infinite;
 }
 
 @keyframes saturn{
@@ -110,7 +110,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: uranus 9s linear infinite;
+  animation: uranus 30s linear infinite;
 }
 
 @keyframes uranus{
@@ -125,7 +125,7 @@ body{
   position:absolute;
   top:0; bottom:0; left:0; right:0;
   margin:auto;
-  animation: neptune 13s linear infinite;
+  animation: neptune 35s linear infinite;
 }
 
 @keyframes neptune{
