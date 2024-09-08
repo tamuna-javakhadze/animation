@@ -3,7 +3,6 @@ body{
 }
 
 
-
 /*sun*/
 .sun{
 	width: 150px;
@@ -11,7 +10,6 @@ body{
 	top:0; bottom:0; left:0; right:0;
 	margin: auto;
 }
-
 
 
 /*planets*/
@@ -29,7 +27,6 @@ body{
 }
 
 
-
 .venus{
   width:10px;
   position:absolute;
@@ -42,7 +39,6 @@ body{
   0% {transform:rotate(0deg) translate(-100px)}
   100% {transform:rotate(360deg) translate(-100px)}
 }
-
 
 
 .earth{
@@ -59,7 +55,6 @@ body{
 }
 
 
-
 .mars{
   width:7px;
   position:absolute;
@@ -72,7 +67,6 @@ body{
   0% {transform:rotate(0deg) translate(-140px)}
   100% {transform:rotate(360deg) translate(-140px)}
 }
-
 
 
 .jupiter{
@@ -89,7 +83,6 @@ body{
 }
 
 
-
 .saturn{
   width:70px;
   position:absolute;
@@ -104,7 +97,6 @@ body{
 }
 
 
-
 .uranus{
   width:25px;
   position:absolute;
@@ -117,7 +109,6 @@ body{
   0% {transform:rotate(0deg) translate(-280px)}
   100% {transform:rotate(360deg) translate(-280px)}
 }
-
 
 
 .neptune{
